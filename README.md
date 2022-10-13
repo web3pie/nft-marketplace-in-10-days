@@ -17,7 +17,7 @@ The project will have these basic features
 ![alt text](https://raw.githubusercontent.com/web3pie/nft-marketplace-in-10-days/main/image.png)
 
 
-| <p align="center"> [Day 1](https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer/blob/main/Day01/Day01.md) </p>  |
+| <p align="center"> [Day 1](https://github.com/web3pie/nft-marketplace-in-10-days/blob/main/day-1/README.md) </p>  |
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | **Project setup**                                                                                                               |
 | - React js                                                                                                                    |
