@@ -15,3 +15,13 @@ The project will have these basic features
 
 
 ![alt text](https://raw.githubusercontent.com/web3pie/nft-marketplace-in-10-days/main/image.png)
+
+
+|   |
+|---|
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
