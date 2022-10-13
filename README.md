@@ -14,3 +14,4 @@ The project will have these basic features
 4) Purchase NFT that is listed
 
 
+![alt text](https://raw.githubusercontent.com/web3pie/nft-marketplace-in-10-days/main/image.png)
