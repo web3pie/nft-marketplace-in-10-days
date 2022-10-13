@@ -17,11 +17,16 @@ The project will have these basic features
 ![alt text](https://raw.githubusercontent.com/web3pie/nft-marketplace-in-10-days/main/image.png)
 
 
-|   |
-|---|
-|   |
-|   |
-|   |
-|   |
-|   |
-|   |
+| <p align="center"> [Day 1](https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer/blob/main/Day01/Day01.md) </p>  |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| **Blockchain**                                                                                                               |
+| - Bitcoin                                                                                                                    |
+| - Ethereum                                                                                                                   |
+| - Smart Contracts                                                                                                            |
+| - Bitcoin Vs Ethereum                                                                                                        |
+| - Oracle Problem & Solution                                                                                                  |
+| - Hybrid Smart Contracts                                                                                                     |
+| - Chainlink                                                                                                                  |
+| - Importance of Ethereum                                                                                                     |
+| - Chainlink features                                                                                                         |
+| - Summary                                                                                                                    |
