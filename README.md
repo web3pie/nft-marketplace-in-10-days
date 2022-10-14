@@ -32,7 +32,7 @@ The project will have these basic features
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | **Connect wallet**                                                                                                               |
 | - React js    
-we will create                                                                                                                |
+      we will create a header component that allow to connect the wallet                                                                                                           |
 | - Hard hat                                                                                                                   |
 | - Node js express                                                                                                            |
 | <p align="center"> [Day 2](https://github.com/web3pie/nft-marketplace-in-10-days/blob/main/day-2/README.md) </p>  |
