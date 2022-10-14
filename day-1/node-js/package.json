@@ -1,0 +1,44 @@
+{
+    "name": "nodejs-express-mongoose-boilerplate",
+    "version": "1.0.0",
+    "description": "Boilerplate for NodeJS Application with Express, MongoDB & Mongoose ORM",
+    "main": "app.js",
+    "scripts": {
+        "format:check": "prettier --check .",
+        "format": "prettier --write .",
+        "lint:check": "eslint .",
+        "lint": "eslint --fix .",
+        "test": "npm run test",
+        "prestart": "npx sequelize-cli db:migrate && npx sequelize-cli db:seed:all",
+        "start": "node ./bin/www",
+        "start:dev": "NODE_ENV=development exec nodemon ./bin/www"
+    },
+    "keywords": [
+        "nodejs",
+        "express",
+        "Mongoose",
+        "MongoDB"
+    ],
+    "author": "Accubits",
+    "license": "ISC",
+    "dependencies": {
+        "bcrypt": "^5.0.1",
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.1",
+        "express": "^4.18.1",
+        "helmet": "^5.1.1",
+        "joi": "^17.6.0",
+        "jsonwebtoken": "^8.5.1",
+        "mongoose": "^6.5.3",
+        "morgan": "^1.10.0",
+        "pino": "^8.3.1",
+        "pino-pretty": "^8.1.0"
+    },
+    "devDependencies": {
+        "eslint": "^8.20.0",
+        "eslint-config-prettier": "^8.5.0",
+        "nodemon": "^2.0.19",
+        "prettier": "^2.7.1",
+        "sequelize-cli": "^6.4.1"
+    }
+}
