@@ -23,11 +23,16 @@ The project will have these basic features
 | - React js                                                                                                                    |
 | - Hard hat                                                                                                                   |
 | - Node js express                                                                                                            |
-| <p align="center"> [Day 2](https://github.com/web3pie/nft-marketplace-in-10-days/blob/main/day-2/README.md) </p>  |
 
-| **Connect wallet**                                                                                                               |
+
+
+
+
+| <p align="center"> [Day 2](https://github.com/web3pie/nft-marketplace-in-10-days/blob/main/day-1/README.md) </p>  |
 | ---------------------------------------------------------------------------------------------------------------------------- |
-
-| Today we will be attempting to connect the wallet first create components in react js and implement ether js and connect the wallet                                                                                                                 |
-|                                                                                                                 |
-|                                                                                                     |
+| **Connect wallet**                                                                                                               |
+| - React js    
+we will create                                                                                                                |
+| - Hard hat                                                                                                                   |
+| - Node js express                                                                                                            |
+| <p align="center"> [Day 2](https://github.com/web3pie/nft-marketplace-in-10-days/blob/main/day-2/README.md) </p>  |
