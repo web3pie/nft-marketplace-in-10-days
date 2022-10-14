@@ -24,7 +24,7 @@ The project will have these basic features
 | - Hard hat                                                                                                                   |
 | - Node js express                                                                                                            |
 | <p align="center"> [Day 1](https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer/blob/main/Day01/Day01.md) </p>  |
-| ---------------------------------------------------------------------------------------------------------------------------- |
+| |
 | **Blockchain**                                                                                                               |
 | - test                                                                                                                    |
 | - test                                                                                                                   |
