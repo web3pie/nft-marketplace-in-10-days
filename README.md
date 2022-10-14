@@ -23,16 +23,24 @@ The project will have these basic features
 | - React js                                                                                                                    |
 | - Hard hat                                                                                                                   |
 | - Node js express                                                                                                            |
-
-
-
-
-
-| <p align="center"> [Day 2](https://github.com/web3pie/nft-marketplace-in-10-days/blob/main/day-1/README.md) </p>  |
+| <p align="center"> [Day 1](https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer/blob/main/Day01/Day01.md) </p>  |
 | ---------------------------------------------------------------------------------------------------------------------------- |
-| **Connect wallet**                                                                                                               |
-| - React js    
-      we will create a header component that allow to connect the wallet                                                                                                           |
-| - Hard hat                                                                                                                   |
-| - Node js express                                                                                                            |
-| <p align="center"> [Day 2](https://github.com/web3pie/nft-marketplace-in-10-days/blob/main/day-2/README.md) </p>  |
+| **Blockchain**                                                                                                               |
+| - test                                                                                                                    |
+| - test                                                                                                                   |
+| - Smart Contracts                                                                                                            |
+| - Bitcoin Vs Ethereum                                                                                                        |
+| - Oracle Problem & Solution                                                                                                  |
+| - Hybrid Smart Contracts                                                                                                     |
+| - Chainlink                                                                                                                  |
+| - Importance of Ethereum                                                                                                     |
+| - Chainlink features                                                                                                         |
+| - Summary                                                                                                                    |
+| **Features of blockchain and smart contracts**                                                                               |
+| - Decentralized                                                                                                              |
+| - Transparency & Flexibility                                                                                                 |
+| - Speed & Efficiency                                                                                                         |
+| - Security & Immutability                                                                                                    |
+| - Removal of Counterparty risks                                                                                              |
+| - Trust Minimized Agreements                                                                                                 |
+| - Summary                                                                                       
