@@ -23,19 +23,12 @@ The project will have these basic features
 | - React js                                                                                                                    |
 | - Hard hat                                                                                                                   |
 | - Node js express                                                                                                            |
-| <p align="center"> [Day 1](https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer/blob/main/Day01/Day01.md) </p>  |
+| <p align="center"> [Day 2](https://github.com/web3pie/nft-marketplace-in-10-days/blob/main/day-2/README.md) </p>  |
 | |
-| **Blockchain**                                                                                                               |
-| - test                                                                                                                    |
-| - test                                                                                                                   |
-| - Smart Contracts                                                                                                            |
-| - Bitcoin Vs Ethereum                                                                                                        |
-| - Oracle Problem & Solution                                                                                                  |
-| - Hybrid Smart Contracts                                                                                                     |
-| - Chainlink                                                                                                                  |
-| - Importance of Ethereum                                                                                                     |
-| - Chainlink features                                                                                                         |
-| - Summary                                                                                                                    |
+| **Connect wallet**                                                                                                               |
+| - React js header component                                                                                                                    |
+| - Ether js integration                                                                                                                   |
+                                                                                                 |
 | **Features of blockchain and smart contracts**                                                                               |
 | - Decentralized                                                                                                              |
 | - Transparency & Flexibility                                                                                                 |
